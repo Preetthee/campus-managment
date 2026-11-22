@@ -1,11 +1,12 @@
 #include <iostream>
 #include <string>
 #include "student_ranking.h"
-
+#include "student_search.h"
 using namespace std;
 
 void showMenu() {
     cout << "\n=== Intelligent Campus Management System ===\n";
+    cout << "1. Student Search\n";
     cout << "4. Student Ranking\n";
     cout << "0. Exit\n";
     cout << "Choose an option: ";
@@ -21,8 +22,11 @@ int main() {
             break;
         }
         cout << "\n";
-        if (choice == "4") runStudentRanking();
+        if (choice == "1") runStudentSearch();
+        else if (choice == "4") runStudentRanking();
         else cout << "Invalid option.\n";
+
+    
     }
     return 0;
 }
