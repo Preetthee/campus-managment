@@ -1,0 +1,28 @@
+#include <iostream>
+#include <string>
+#include "student_ranking.h"
+
+using namespace std;
+
+void showMenu() {
+    cout << "\n=== Intelligent Campus Management System ===\n";
+    cout << "4. Student Ranking\n";
+    cout << "0. Exit\n";
+    cout << "Choose an option: ";
+}
+
+int main() {
+    string choice;
+    while (true) {
+        showMenu();
+        if (!getline(cin, choice)) break;
+        if (choice == "0") {
+            cout << "Goodbye.\n";
+            break;
+        }
+        cout << "\n";
+        if (choice == "4") runStudentRanking();
+        else cout << "Invalid option.\n";
+    }
+    return 0;
+}
