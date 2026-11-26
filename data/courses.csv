@@ -1,0 +1,17 @@
+day,code,name,teacher,room,start,end
+Sunday,CSE 2205,Numerical Methods,Humayra Tasnim,314,09:00,10:15
+Sunday,CSE 2201,Object Oriented Design and Design Patterns,Mohammad Faisal Al-Naser,509,11:30,12:45
+Monday,CSE 2203,Computer Algorithms,Sumaiya Tasnim Dristi,513,09:00,10:15
+Monday,CSE 2206,Numerical Methods Lab,"Israt Jahan Rinky, Humayra Tasnim",103 DMSL,11:30,12:45
+Monday,CSE 2204,Computer Algorithms Lab,"Sumaiya Tasnim Dristi, Zuairia Raisa Bintay Makin",103 DMSL,13:15,14:30
+Monday,CSE 2204,Computer Algorithms Lab,"Sumaiya Tasnim Dristi, Zuairia Raisa Bintay Makin",103 DMSL,14:30,15:45
+Tuesday,CSE 2207,Computer Networks,Prof. Dr. Boshir Ahmed,412,09:00,10:15
+Tuesday,CSE 2205,Numerical Methods,Humayra Tasnim,411,10:15,11:30
+Tuesday,CSE 2201,Object Oriented Design and Design Patterns,Mohammad Faisal Al-Naser,513,13:15,14:30
+Tuesday,CSE 2208,Computer Networks Lab,"D. M. Asadujjaman, Akib Ikbal",104 CNL,14:30,15:45
+Wednesday,CSE 2207,Computer Networks,Prof. Dr. Boshir Ahmed,814,09:00,10:15
+Wednesday,CSE 2202,Object Oriented Design and Design Patterns Lab,"Md. Nour Nabi, Mohammad Faisal Al-Naser",104 CNL,11:30,12:45
+Wednesday,CSE 2202,Object Oriented Design and Design Patterns Lab,"Md. Nour Nabi, Mohammad Faisal Al-Naser",104 CNL,13:15,14:30
+Wednesday,MAT 2241,Linear Algebra and Complex Variables,Anupoma Barman Shetu,1010,14:30,15:45
+Thursday,MAT 2241,Linear Algebra and Complex Variables,Anupoma Barman Shetu,514,11:30,12:45
+Thursday,CSE 2203,Computer Algorithms,Sumaiya Tasnim Dristi,509,13:15,14:30
