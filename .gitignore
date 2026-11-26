@@ -1,2 +1,6 @@
-.vscode/
+/.vscode/*
+!/.vscode/tasks.json
 campus_management.exe
+/main
+/main.exe
+/main.dSYM/
